@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bienthuy23
-- 👀 I’m interested in ...
+- 👀 I’m 18 years old
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact me at khue.nhi_ or lebienthuy2003@gmail.com
 
 <!---
 bienthuy23/bienthuy23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
